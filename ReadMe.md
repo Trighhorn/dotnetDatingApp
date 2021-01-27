@@ -1,0 +1,1 @@
+this is an app im currently coding in order to learn and understand .net developement with angular.
